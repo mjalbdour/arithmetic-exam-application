@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Project Specific
+.idea
+course*
+Arithmetic Exam Application/*
+!Arithmetic Exam Application/task/
